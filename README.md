@@ -1,6 +1,6 @@
 # welcome to the hot fix for the bugs
 
-## initail steps:
+## initial steps:
 1.car information missed(bug)
 2.user/captain name doesn't appear(bug)
 
